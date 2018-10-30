@@ -14,6 +14,10 @@ QuarkChain is a sharded blockchain protocol that employs a two-layer architectur
 - P2P network allowing clusters to join and leave anytime
 - Fully compatible with Ethereum smart contract
 
+## Modification
+- Add `install` folder to completely fix installation issues
+- Add `result.txt` to record simulation result
+
 ## Design
 
 ![QuarkChain Cluster](https://docs.google.com/drawings/d/e/2PACX-1vRkF6Wd-I-1j-601IFWPwd9u8A5oqa_c2JVBad1SDY48ATY1aRaJvhObiX8p9Jh1ra5G-HIqhhYl0NM/pub?w=960&h=576)
